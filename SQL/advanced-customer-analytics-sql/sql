@@ -1,9 +1,0 @@
-advanced-customer-analytics-sql/
-│
-├── README.md
-├── SQL/
-│   ├── 1_sales_analysis.sql
-│   ├── 2_category_product_analysis.sql
-│   ├── 3_customer_segmentation.sql
-│   └── 4_customer_report.sql
-
