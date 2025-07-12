@@ -21,7 +21,7 @@ This project demonstrates how to use SQL for advanced business analysis by exami
 ## 💡 Key Insights
 
 - Seasonal sales peaks were identified using monthly trends.
-- High-cost products (above $1000) were fewer in number but contributed significantly to total sales.
+- "Bikes" is the category that contributes the most to overall sales, with 96.46% of the total
 - VIP customers, though a small segment, generated the majority of revenue.
 
 ## 🧰 Tools & Techniques Used
